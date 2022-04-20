@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\calculadora"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\practica"
+		},
+		{
+			"path": "..\\Precurso"
+		},
+		{
+			"path": "..\\node_modules"
+		},
+		{
+			"path": "..\\practicaCallbacks"
+		},
+		{
+			"path": "..\\metodosArray"
+		}
+	],
+	"settings": {}
+}
